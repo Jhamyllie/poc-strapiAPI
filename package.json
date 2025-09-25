@@ -30,10 +30,11 @@
     "@types/react-dom": "^18",
     "typescript": "^5"
   },
-  "engines": {
-    "node": ">=18.0.0 <=22.x.x",
-    "npm": ">=6.0.0"
+    "engines": {
+    "node": ">=18.0.0 <=20.x",
+    "npm": ">=8.0.0"
   },
+
   "strapi": {
     "uuid": "76a76238-f80e-4fd9-a6a5-add2727f3801",
     "installId": "4d8303b73c43abcf33f4f68c2d94406f1af7de83fbbe041ea580d6699f25b72f"
